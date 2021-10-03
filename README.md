@@ -1,0 +1,2 @@
+# andy
+Latihan 1
